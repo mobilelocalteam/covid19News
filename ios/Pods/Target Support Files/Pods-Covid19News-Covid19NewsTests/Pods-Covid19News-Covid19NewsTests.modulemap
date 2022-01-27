@@ -1,0 +1,6 @@
+module Pods_Covid19News_Covid19NewsTests {
+  umbrella header "Pods-Covid19News-Covid19NewsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
